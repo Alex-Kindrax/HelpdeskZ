@@ -81,10 +81,15 @@ Ingrese la ruta a pipe.php, por ejemplo /public_html/helpdeskz/pipe.php
 
 *(Para que funcione correctamente, verifique que pipe.php tenga permisos ejecutables (CHMOD 755))*
 
-![1.Imágenes dentro del propio HelpdeskZ](C:\Desktop\fotos\1.png)
-![2.Imágenes dentro del propio HelpdeskZ](C:\Desktop\fotos\2.png)
-![3.Imágenes dentro del propio HelpdeskZ](C:\Desktop\fotos\3.png)
-![4.Imágenes dentro del propio HelpdeskZ](C:\Desktop\fotos\4.png)
+![1.Imágenes dentro del propio HelpdeskZ](\imagenes\1.png)
+![2.Imágenes dentro del propio HelpdeskZ](\imagenes\2.png)
+![3.Imágenes dentro del propio HelpdeskZ](\imagenes\3.png)
+![4.Imágenes dentro del propio HelpdeskZ](\imagenes\4.png)
+
+
+
+
+
 
 
 
