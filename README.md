@@ -81,11 +81,11 @@ Ingrese la ruta a pipe.php, por ejemplo /public_html/helpdeskz/pipe.php
 
 *(Para que funcione correctamente, verifique que pipe.php tenga permisos ejecutables (CHMOD 755))*
 
-Imagenes dentro del propio HelpdeskZ
+## Imágenes dentro del propio HelpdeskZ
+
 ![1.Imágenes dentro del propio HelpdeskZ](https://github.com/Alex-Kindrax/HelpdeskZ/blob/main/imagenes/1.png)
 ![2.Imágenes dentro del propio HelpdeskZ](https://github.com/Alex-Kindrax/HelpdeskZ/blob/main/imagenes/2.png)
 ![3.Imágenes dentro del propio HelpdeskZ](https://github.com/Alex-Kindrax/HelpdeskZ/blob/main/imagenes/3.png)
 ![4.Imágenes dentro del propio HelpdeskZ](https://github.com/Alex-Kindrax/HelpdeskZ/blob/main/imagenes/4.png)
-
 
 
